@@ -1,0 +1,221 @@
+* {
+  margin: 0px;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #59C173;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #5D26C1, #a17fe0, #59C173);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #5D26C1, #a17fe0, #59C173);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  width: 100%;
+  height: 100%;
+  background-attachment: fixed;
+  background-position: cover;
+  overflow-x: hidden;
+}
+
+header {
+  background: #242424;
+  background-attachment: fixed;
+  color: white;
+  width: 100%;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: 'Aldrich';
+  font-size: 20px;
+  display: block;
+}
+
+a {
+  text-decoration: none;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  color: orange;
+}
+
+.Datos {
+  margin-top: 200px;
+  text-align: center;
+  font-family: 'Major mono display';
+  font-size: 30px;
+  color: white;
+  text-shadow: 3px 3px black;
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+}
+
+.subt {
+  margin-top: 25px;
+  font-family: 'IBM Plex Mono';
+  background: white;
+  color: black;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  text-align: center;
+  display: block;
+  overflow: hidden;
+}
+
+img {
+  text-align: center;
+  width: 40%;
+  margin-left: 180px;
+  margin-top: 120px;
+  display: flex;
+  overflow-x: hidden;
+}
+
+.ponente {
+  width: 50%;
+  height: 150px;
+  background: #242424;
+  color: white;
+  margin-top: 150px;
+  margin-left: auto;
+  display: block;
+  overflow: hidden;
+}
+
+.info {
+  background-image: url(../IMG/man.jpg);
+  background-attachment: fixed;
+  background-size: contain;
+  background-position: center;
+  margin-top: 30%;
+  display: flex;
+  height: 500px;
+  overflow: hidden;
+}
+
+.sint {
+  margin-top: 100px;
+  background: white;
+  display: flex;
+  height: auto;
+  overflow: hidden;
+  text-align: justify;
+  width: 70%;
+}
+
+p3{
+  font-family: 'Roboto';
+  font-size: 20px;
+  margin-left: 100px;
+  margin-right: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.web {
+  width: 100%;
+  color: black;
+  text-align: center;
+  margin-top: 100px;
+  display: block;
+  overflow: hidden;
+}
+
+h4 {
+  font-family: 'Rock Salt';
+  font-size: 150px;
+  text-shadow: 3px 3px white;
+}
+
+p {
+  margin-left: 20px;
+  margin-right: 30px;
+  margin-top: 15px;
+  font-family: 'IBM Plex mono';
+}
+
+.low {
+  background-image: url(../IMG/Bod.jpg);
+  background-attachment: fixed;
+  background-size: contain;
+  background-position: center;
+  margin-top: 20%;
+  display: flex;
+  height: 500px;
+  overflow: hidden;
+}
+
+.Insc {
+  text-align: center;
+  width: 60%;
+  height: 200px;
+  background: #242424;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+  display:grid;
+  overflow: auto;
+}
+
+p2 {
+  font-family: 'Aldrich';
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+
+}
+
+.out {
+  display: flex;
+  overflow: hidden;
+}
+
+.vínculos{
+  margin-top: 200px;
+  background: white;
+  background-attachment: fixed;
+  background-size: contain;
+  background-position: center;
+  display: flex;
+  height: 200px;
+  text-align: justify;
+  width: 70%;
+  overflow: auto;
+  margin-left: auto;
+  
+}
+
+audio{
+  margin-top: 250px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+  overflow: hidden;
+}
+
+h5 {
+  font-family: 'IBM Plex Mono';
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  height: 50px;
+  background: #242424;
+  align-items: center;
+  display: flex;
+}
