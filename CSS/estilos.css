@@ -180,6 +180,8 @@ p2 {
 .out {
   display: flex;
   overflow: hidden;
+  margin-top: 70px;
+  margin-bottom:200px;
 }
 
 .vínculos{
@@ -198,7 +200,7 @@ p2 {
 }
 
 audio{
-  margin-top: 250px;
+  margin-top: 150px;
   display: flex;
   margin-left: auto;
   margin-right: auto;
