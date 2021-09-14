@@ -186,6 +186,7 @@ p2 {
 
 .vínculos{
   margin-top: 200px;
+  margin-bottom; 200px;
   background: white;
   background-attachment: fixed;
   background-size: contain;
@@ -200,7 +201,7 @@ p2 {
 }
 
 audio{
-  margin-top: 150px;
+  margin-top: 50px;
   display: flex;
   margin-left: auto;
   margin-right: auto;
